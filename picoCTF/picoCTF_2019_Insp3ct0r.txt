@@ -1,0 +1,12 @@
+Insp3ct0r 
+
+https://jupiter.challenges.picoctf.org/problem/41511/
+
+
+Inspect the pages 
+	->HTML  = index
+	->CSS	= mycss.css
+	->JS	= myjs.js
+
+
+flag - picoCTF{tru3_d3t3ct1ve_0r_ju5t_lucky?1638dbe7}
